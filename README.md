@@ -31,6 +31,7 @@ docker node ls
 5. (необязательное задание *). Задеплойте ваш python-fork из предыдущего ДЗ в получившийся кластер.
 6. Удалите стенд.
 
+![swarm](https://github.com/joos-net/virt-swarm/blob/main/swarm.png)
 
 ## Задача 3 (*)
 
@@ -38,4 +39,7 @@ docker node ls
 
 Проверьте доступность grafana.
 
-Иначе веритесь к выполнению задания после прохождения модулей "terraform" и "ansible".
+![swarm20](https://github.com/joos-net/virt-swarm/blob/main/swarm20.png)
+![swarm21](https://github.com/joos-net/virt-swarm/blob/main/swarm21.png)
+![swarm22](https://github.com/joos-net/virt-swarm/blob/main/swarm22.png)
+![swarm23](https://github.com/joos-net/virt-swarm/blob/main/swarm23.png)
